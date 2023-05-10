@@ -1,0 +1,3 @@
+export const TITLE = `TITLE AREA`;
+export const DEFAULT_TITLE = `DEFAULT_TITLE AREA`;
+export const DESCRIPTION = `DESCRIPTION AREA`;
